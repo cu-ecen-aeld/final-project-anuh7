@@ -5,7 +5,7 @@
 ##############################################################
 
 
-SOCKET_VERSION = 'c2a8362e25d126c32575ea0b4dd0a53ff4d501a2'
+SOCKET_VERSION = 'dc7e5bca66454659f9a6ae14f6b850ecbc057936'
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
